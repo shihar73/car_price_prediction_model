@@ -16,7 +16,7 @@ This model has been tested with more than two Algorithms
 Instructions on how to install *Downloader*
 ```bash
 git clone https://github.com/shihar73/Downloader.git
-cd Downloader
+cd car_price_prediction_model
 
 ```
 create a new virtual environment
